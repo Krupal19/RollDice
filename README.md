@@ -1,6 +1,6 @@
-# basics
+# Roll Dice Application
 
-A new Flutter project.
+A Flutter application
 
 ## Getting Started
 
